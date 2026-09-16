@@ -1,0 +1,16 @@
+#boton {
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color: aqua;
+    color: darkblue;
+    border-radius: 5px;
+}
+
+#boton:hover {
+    background-color: #3d6565;
+}
+
+#boton:active {
+    background-color: #2f4e4e;
+}

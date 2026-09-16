@@ -126,6 +126,12 @@ footer {
     padding: 20px;
 }
 
+.ai-note {
+    margin-top: 8px;
+    font-size: 13px;
+    color: #aaa;
+}
+
 /* Móvil */
 @media (max-width: 600px) {
     header {
